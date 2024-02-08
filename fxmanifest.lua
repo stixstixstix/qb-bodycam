@@ -1,9 +1,3 @@
-server_script '@ProAntiHack123AnticheatHackAntiStopperHack/sv_tokenizer.lua' -- Required for protection
-client_script '@ProAntiHack123AnticheatHackAntiStopperHack/cl_tokenizer.lua' -- Required for protection
-server_script '@oxmysql/lib/MySQL.lua' -- Required for protection's requirements
-
-
-
 fx_version 'adamant'
 
 game 'gta5'
