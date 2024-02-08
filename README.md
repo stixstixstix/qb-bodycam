@@ -1,3 +1,5 @@
 Functional bodycam that uploads to Discord webhook
 
-requires qb-core
+Requires qb-core
+
+Not made by me
