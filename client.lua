@@ -7,7 +7,6 @@ RegisterNetEvent("qb-bodycam:use")
 AddEventHandler("qb-bodycam:use", function(job, grade, name)
     if not recort then
     recort = true
-    ExecuteCommand('me Enables Bodycam')
     SendNUIMessage({
         rec = true,
         type = "record",
@@ -20,7 +19,6 @@ AddEventHandler("qb-bodycam:use", function(job, grade, name)
     })
     elseif recort then
     recort = false
-    ExecuteCommand('me Disables Bodycam')
     SendNUIMessage({
         rec = false,
         type = "record"
