@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author "NakreS - https://discord.gg/qb-core"
+author "Not Stix"
 
 ui_page "html/bodycam.html"
 
